@@ -1,6 +1,9 @@
 ## <h1 align="center">Hi 👋, I'm Sharjeel Qadeer</h1>
 <h3 align="center">I’m learning web and mobile app development course saylani mass IT training progaram.</h3>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelqadeer5999&label=Profile%20views&color=0e75b6&style=flat" alt="zubair-shah" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/atzubairshah" target="blank"><img src="https://img.shields.io/twitter/follow/atzubairshah?logo=twitter&style=for-the-badge" alt="atzubairshah" /></a> </p> -->
