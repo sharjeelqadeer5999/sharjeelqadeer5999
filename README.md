@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeelqadeer5999&label=Profile%20views&color=0e75b6&style=flat" alt="zubair-shah" /> </p>
 
-/*<p align="left"> <a href="https://twitter.com/atzubairshah" target="blank"><img src="https://img.shields.io/twitter/follow/atzubairshah?logo=twitter&style=for-the-badge" alt="atzubairshah" /></a> </p>*/
+<!-- <p align="left"> <a href="https://twitter.com/atzubairshah" target="blank"><img src="https://img.shields.io/twitter/follow/atzubairshah?logo=twitter&style=for-the-badge" alt="atzubairshah" /></a> </p> -->
 
 - 🔭 I’m currently working in National Refinery LTD. as Junior Officer.
 
 - 🌱 I’m currently learning **HTML, CSS, GIT AND GITHUB, GITLAB, BOOTSTRAP, TAILWIND, JAVASCRIPT AND REACT**
 
-/*- 👨‍💻 All of my projects are available at [https://www.zubairshaikh.me/](https://www.zubairshaikh.me/)*/
+<!-- - 👨‍💻 All of my projects are available at [https://www.zubairshaikh.me/](https://www.zubairshaikh.me/) -->
 
 - 💬 Ask me about **JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, SQL & NO-SQL Databases, AWS, GCP, Jest, Cypress, Selenium, Cloud Computing, VPS Management and Web3 Integration**
 
