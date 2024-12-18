@@ -14,20 +14,20 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.zubairshaikh.me/](https://www.zubairshaikh.me/) -->
 
-- 💬 Ask me about **JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, SQL & NO-SQL Databases, AWS, GCP, Jest, Cypress, Selenium, Cloud Computing, VPS Management and Web3 Integration**
+- 💬 Ask me about **HTML, CSS, GIT AND GITHUB, GITLAB, BOOTSTRAP, TAILWIND, JAVASCRIPT AND REACT**
 
-- 📫 How to reach me **shahzubair269@gmail.com**
+- 📫 How to reach me **sharjeelqadeer5999@gmail.com**
 
-- 📄 Know about my experiences [https://www.zubairshaikh.me/zubair.pdf](https://www.zubairshaikh.me/zubair.pdf)
+<!-- - 📄 Know about my experiences [https://www.zubairshaikh.me/zubair.pdf](https://www.zubairshaikh.me/zubair.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zubairshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairshaikh" height="30" width="40" /></a>
-<a href="https://twitter.com/atzubairshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atzubairshah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zubair-shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubair-shaik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14438023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14438023" height="30" width="40" /></a>
-<a href="https://fb.com/zubairshaikh.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubairshaikh.me" height="30" width="40" /></a>
-<a href="https://instagram.com/zubairshaikh.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubairshaikh.me" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/zubairshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairshaikh" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/atzubairshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atzubairshah" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/sharjeel-qadeer-902514265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeel-qadeer-902514265" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/14438023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14438023" height="30" width="40" /></a> -->
+<a href="[https://fb.com/zubairshaikh.me](https://web.facebook.com/profile.php?id=100005961767910)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeelqadeer-facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/qadeer_sharjeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeelqadeer-instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
