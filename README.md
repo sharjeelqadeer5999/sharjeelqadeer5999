@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Sharjeel Qadeer</h1>
-<h3 align="center">I’m learning web and mobile app development course saylani mass IT training progaram.</h3>
+<h3 align="center">I’m learning web and mobile app development course from saylani mass IT training progaram.</h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/atzubairshah" target="blank"><img src="https://img.shields.io/twitter/follow/atzubairshah?logo=twitter&style=for-the-badge" alt="atzubairshah" /></a> </p> -->
 
-- 🔭 I’m currently working in National Refinery LTD. as Junior Officer.
+- 🔭 I’m currently working in National Refinery LTD. as a Junior Officer.
 
 - 🌱 I’m currently learning **HTML, CSS, GIT AND GITHUB, GITLAB, BOOTSTRAP, TAILWIND, JAVASCRIPT AND REACT**
 
@@ -26,7 +26,7 @@
 <!-- <a href="https://twitter.com/atzubairshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atzubairshah" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/sharjeel-qadeer-902514265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeel-qadeer-902514265" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/14438023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14438023" height="30" width="40" /></a> -->
-<a href="[https://fb.com/zubairshaikh.me](https://web.facebook.com/profile.php?id=100005961767910)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeelqadeer-facebook" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100005961767910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeelqadeer-facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/qadeer_sharjeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeelqadeer-instagram" height="30" width="40" /></a>
 </p>
 
