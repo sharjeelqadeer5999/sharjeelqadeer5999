@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Sharjeel Qadeer</h1>
-<h3 align="center">I’m learning web and mobile app development course from saylani mass IT training progaram in Karachi, Pakistan.</h3>
+<h3 align="center">I’m learning web and mobile app development course from saylani mass IT training program in Karachi, Pakistan.</h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
