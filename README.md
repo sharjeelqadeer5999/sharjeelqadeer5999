@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in National Refinery LTD. as a Junior Officer.
 
-- 🌱 I’m currently learning **HTML, CSS, GIT AND GITHUB, GITLAB, BOOTSTRAP, TAILWIND, JAVASCRIPT AND REACT**
+- 🌱 I’m currently learning **Full Stack Development**
 
 
 
@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeelqadeer5999&show_icons=true&locale=en&layout=compact" alt="sharjeelqadeer5999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeelqadeer5999&show_icons=true&locale=en" alt="sharjeelqadeer5999" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeelqadeer5999&show_icons=true&locale=en" alt="sharjeelqadeer5999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelqadeer5999&" alt="sharjeelqadeer5999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelqadeer5999&" alt="sharjeelqadeer5999" /></p> -->
