@@ -70,7 +70,7 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
       <br>Git
     </td>
      <td align="center" width="96">
-        <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="50" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="50" />
       <br>Github
     </td>
     <td align="center" width="96">
