@@ -48,7 +48,7 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss"  width="52" height="52"  />
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss"  width="65" height="65"  />
       </a>
       <br>tailwindcss
     </td>
