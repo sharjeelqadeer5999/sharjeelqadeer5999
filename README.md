@@ -48,7 +48,7 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss"  width="48" height="48"  />
+      <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwindcss"  width="48" height="48"  />
       </a>
       <br>tailwindcss
     </td>
@@ -62,16 +62,6 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
-      </a>
-      <br>Netlify
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -84,14 +74,19 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
       <br>Github
     </td>
     <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48"           height="48" />
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
+     <td align="center" width="96">
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
       </a>
-      <br>Vercel
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+      </a>
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <a href="#"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
