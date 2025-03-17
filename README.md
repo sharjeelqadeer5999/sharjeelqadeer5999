@@ -21,7 +21,7 @@ I'm **Sharjeel Qadeer**, a Student of Saylani Mass IT Training Programe in Karac
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
 - 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Learning Latest Technologies
 - 🎓 **Student:** In Saylani Mass IT Training Programe
-- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Complete The Course And Become A Full-Stack Developer
+- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Complete The Course And Become A MERN-Stack Developer
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Making React.js Application
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
